@@ -1,15 +1,17 @@
 本系统为前后端分离
 springboot + vue3
+其中big-event为后端代码
+NewsView为前端代码
 基础改自黑马前后端课程大事件，在其基础上进行了所有功能的补齐
 并且分管理员和非管理员账号（账号名为administrator的用户为管理员，其余都是非管理员）
 
 账号提供：
 普通用户：
-wwwww
-wwwwww
+账号：wwwww
+密码：wwwwww
 管理员：
-administrator
-09230542
+账号：administrator
+密码：09230542
 
 数据库展示：
 ![数据库_用户](https://github.com/user-attachments/assets/fe58ff94-21f6-492b-8157-a6433759cdd6)
