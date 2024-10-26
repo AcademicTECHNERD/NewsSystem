@@ -1,7 +1,9 @@
 本系统为前后端分离
-springboot + vue3
+springboot + vue3（数据库已给出）
+
 其中big-event为后端代码
 NewsView为前端代码
+
 基础改自黑马前后端课程大事件，在其基础上进行了所有功能的补齐
 并且分管理员和非管理员账号（账号名为administrator的用户为管理员，其余都是非管理员）
 
